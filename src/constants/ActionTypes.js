@@ -1,0 +1,3 @@
+export const ADD_TO_CART = "ADD_TO_CART"
+export const DELET_PRODUCT = "DELET_PRODUCT"
+export const VALIDATE_ORDER = 'VALIDATE_ORDER'
