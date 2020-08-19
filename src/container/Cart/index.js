@@ -7,7 +7,7 @@ import Cart from '../../component/Cart'
 const mapStateToProps = state => ({
     cartCount: state.CartItems,
     products: state.products
-})
+}) 
 
 const mapDispatchToProps = dispatch => ({
     actions: bindActionCreators (Actions,dispatch)
